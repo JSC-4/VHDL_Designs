@@ -1,0 +1,12 @@
+
+{ 
+    crc :  3432276635703682615  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto ad1d7fb9c8c449059401d30cef3286da --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot RAM_8x8_tb_behav xil_defaultlib.RAM_8x8_tb" , 
+    buildDate : "May 24 2019" , 
+    buildTime : "14:51:52" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/RAM_8x8_tb_behav/xsimk\"   \"xsim.dir/RAM_8x8_tb_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/RAM_8x8_tb_behav/obj/xsim_1.lnx64.o\" -L\"/opt/programs/Xilinx/Vivado/2019.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
