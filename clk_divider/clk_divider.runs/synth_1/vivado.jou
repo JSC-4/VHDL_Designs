@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Mar  1 09:13:02 2020
+# Process ID: 23646
+# Current directory: /home/jsc/Documents/Xilinx/VHDL_Designs/clk_divider/clk_divider.runs/synth_1
+# Command line: vivado -log clk_div.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_div.tcl
+# Log file: /home/jsc/Documents/Xilinx/VHDL_Designs/clk_divider/clk_divider.runs/synth_1/clk_div.vds
+# Journal file: /home/jsc/Documents/Xilinx/VHDL_Designs/clk_divider/clk_divider.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source clk_div.tcl -notrace

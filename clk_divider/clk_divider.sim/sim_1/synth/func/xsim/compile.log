@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/jsc/Documents/Xilinx/VHDL_Designs/clk_divider/clk_divider.sim/sim_1/synth/func/xsim/clk_div_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clk_div'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/jsc/Documents/Xilinx/VHDL_Designs/clk_divider/clk_divider.srcs/sim_1/new/clk_div_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clk_div_tb'

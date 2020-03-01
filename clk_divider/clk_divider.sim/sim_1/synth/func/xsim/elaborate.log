@@ -1,0 +1,8 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /opt/programs/Xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto ef2bb7cb5fae41b29d9bc8329a366590 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot clk_div_tb_func_synth xil_defaultlib.clk_div_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-3146] binding entity 'clk_div' does not have generic 'freq_in' [/home/jsc/Documents/Xilinx/VHDL_Designs/clk_divider/clk_divider.srcs/sim_1/new/clk_div_tb.vhd:32]
+ERROR: [VRFC 10-3146] binding entity 'clk_div' does not have generic 'freq_out' [/home/jsc/Documents/Xilinx/VHDL_Designs/clk_divider/clk_divider.srcs/sim_1/new/clk_div_tb.vhd:33]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit clk_div_tb in library work failed.
